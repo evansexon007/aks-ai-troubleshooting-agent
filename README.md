@@ -21,6 +21,8 @@ This agent can answer questions such as:
 ```powershell
 python .\agent.py "Use the kubectl tool and check the health of my AKS lab"
 ```
+<img width="1118" height="240" alt="image" src="https://github.com/user-attachments/assets/f3aed732-fa55-424d-9f7c-6bc598fc3010" />
+
 
 Example agent flow:
 
