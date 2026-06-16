@@ -21,6 +21,12 @@ This agent can answer questions such as:
 ```powershell
 python .\agent.py "Use the kubectl tool and check the health of my AKS lab"
 ```
+<img width="835" height="240" alt="image" src="https://github.com/user-attachments/assets/1e526e9f-a8a4-48e2-bf10-791ee2342bfa" />
+
+```powershell
+python .\agent.py "Use the kubectl tool and get the last 100 logs for pod wikijs-postgres-67f7d884c-54dwm in namespace wiki"
+```
+
 <img width="1118" height="240" alt="image" src="https://github.com/user-attachments/assets/f3aed732-fa55-424d-9f7c-6bc598fc3010" />
 
 
